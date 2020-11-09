@@ -12,7 +12,7 @@
 # 강의 소개
 
 
-- 강의 소개 파일 : https://docs.google.com/presentation/d/1H6WYk65BhMFZ_G3U68Yj6dvoXBKX2hmZGF_F3dWpgOo/edit?usp=sharing
+- 강의 소개 파일 : https://docs.google.com/presentation/d/1WS5mbSUul-VooOlUgIE9WQIr67qODI-YAEywCLaA1gE/edit?usp=sharing
 
 
 - 질문은 이메일  blockenters@gmail.com 으로 받습니다. 질문의 답변은 수업시간에 해드립니다. 
