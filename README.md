@@ -9,7 +9,7 @@
 본 과정을 통해 파이썬으로 데이터를 분석하는 방법을 배웁니다.
 
 
-# 강의자료
+# 강의 소개
 
 
 - 강의 소개 파일 : https://docs.google.com/presentation/d/1H6WYk65BhMFZ_G3U68Yj6dvoXBKX2hmZGF_F3dWpgOo/edit?usp=sharing
